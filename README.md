@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi i'm botbarbie
 
-<!--
-**botbarbie/botbarbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🌱 currently learning python and sql<br/>
+  🚗 working into the automotive industry<br/>
+  🐱 cat lover ('I have two')<br/>
+  💻 world of warcraft player ('drood only🍃')<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=botbarbie&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
